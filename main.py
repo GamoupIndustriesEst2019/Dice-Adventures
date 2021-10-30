@@ -1,4 +1,5 @@
-import sys
-sys.path.insert(0, '/Downloads/ZWMC/games/Dice Adventures/start')
+# Dice Adventures
+# Gamoup Industries, ZWMC Inc., The Project Timeline Team 2021 ©
 
-from start import global_variables
+# Modules
+from variables import *
